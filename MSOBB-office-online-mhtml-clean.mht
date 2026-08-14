@@ -1,0 +1,22 @@
+From: MSOBB Researcher <msobb@research.invalid>
+Subject: MSOBB standards-valid MHTML parser control
+MIME-Version: 1.0
+Content-Type: multipart/related; type="text/html"; boundary="----=_NextPart_MSOBB_MHTML_20260813_Z7K3Q9"; start="<root-msobb-mhtml@research.invalid>"
+
+------=_NextPart_MSOBB_MHTML_20260813_Z7K3Q9
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+Content-ID: <root-msobb-mhtml@research.invalid>
+Content-Location: https://research.invalid/msobb-mhtml-control.html
+
+<!doctype html><html><head><meta charset="utf-8"><title>MSOBB MHTML clean control</title></head><body style="font-family: sans-serif"><h1>MSOBB MHTML CLEAN 20260813 Z7K3Q9</h1><p>MSOBB_INLINE_IMAGE_BELOW</p><img src="cid:inline-msobb-image@research.invalid" alt="MSOBB_INLINE_IMAGE_ALT" width="48" height="48"></body></html>
+------=_NextPart_MSOBB_MHTML_20260813_Z7K3Q9
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-ID: <inline-msobb-image@research.invalid>
+Content-Location: https://research.invalid/assets/msobb-inline-owned.png
+
+iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAAAT0lEQVR42u3WsQ0AIAgEwN9/KCdx
+F1wAS2PBJZQkXPV8Kqud7Grn9X6AgIDGgX4dvu4DAQGNA0lqICAgfcjrAALShyQ1EBCQPuR1AAGN
+Bh3GQSzxSXpaTwAAAABJRU5ErkJggg==
+------=_NextPart_MSOBB_MHTML_20260813_Z7K3Q9--
