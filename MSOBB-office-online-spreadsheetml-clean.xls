@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook
+  xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+  xmlns:o="urn:schemas-microsoft-com:office:office"
+  xmlns:x="urn:schemas-microsoft-com:office:excel"
+  xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet">
+  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+    <Author>MSOBB</Author>
+  </DocumentProperties>
+  <Worksheet ss:Name="MSOBB">
+    <Table>
+      <Row><Cell><Data ss:Type="String">MSOBB-SPREADSHEETML-CLEAN</Data></Cell></Row>
+    </Table>
+    <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+      <Selected/>
+    </WorksheetOptions>
+  </Worksheet>
+</Workbook>
