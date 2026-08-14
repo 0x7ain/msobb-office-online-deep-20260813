@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Word.Document"?>
+<w:wordDocument
+  xmlns:w="http://schemas.microsoft.com/office/word/2003/wordml"
+  xmlns:wx="http://schemas.microsoft.com/office/word/2003/auxHint"
+  xmlns:o="urn:schemas-microsoft-com:office:office">
+  <o:DocumentProperties>
+    <o:Author>MSOBB</o:Author>
+  </o:DocumentProperties>
+  <w:body>
+    <wx:sect>
+      <w:p><w:r><w:t>MSOBB-WORDML-CLEAN</w:t></w:r></w:p>
+    </wx:sect>
+  </w:body>
+</w:wordDocument>
