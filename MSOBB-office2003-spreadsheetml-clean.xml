@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook
+  xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+  xmlns:o="urn:schemas-microsoft-com:office:office"
+  xmlns:x="urn:schemas-microsoft-com:office:excel"
+  xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet">
+  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+    <Author>MSOBB</Author>
+    <Title>MSOBB Office 2003 XML Spreadsheet clean control</Title>
+  </DocumentProperties>
+  <Styles>
+    <Style ss:ID="Default" ss:Name="Normal">
+      <Alignment ss:Vertical="Bottom"/>
+      <Font ss:FontName="Arial" ss:Size="11"/>
+    </Style>
+    <Style ss:ID="Marker">
+      <Font ss:FontName="Arial" ss:Size="16" ss:Bold="1" ss:Color="#C000C0"/>
+    </Style>
+  </Styles>
+  <Worksheet ss:Name="MSOBB">
+    <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="1" x:FullColumns="1" x:FullRows="1">
+      <Column ss:Width="360"/>
+      <Row ss:Height="30">
+        <Cell ss:StyleID="Marker"><Data ss:Type="String">MSOBB-OFFICE2003-XML-SPREADSHEET-CLEAN</Data></Cell>
+      </Row>
+    </Table>
+    <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+      <Selected/>
+      <ProtectObjects>False</ProtectObjects>
+      <ProtectScenarios>False</ProtectScenarios>
+    </WorksheetOptions>
+  </Worksheet>
+</Workbook>
