@@ -1,0 +1,8 @@
+# MSOBB owned public material control 20260814
+newmtl MSOBB_REMOTE_CYAN
+Ka 0.00 0.00 0.00
+Kd 0.00 0.92 0.95
+Ks 0.00 0.00 0.00
+Ns 1.00
+d 1.00
+illum 1
