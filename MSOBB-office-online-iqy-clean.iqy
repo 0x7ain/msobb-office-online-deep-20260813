@@ -1,0 +1,11 @@
+WEB
+1
+https://raw.githubusercontent.com/0x7ain/msobb-office-online-deep-20260813/main/MSOBB-office-online-iqy-owned-source.csv
+
+Selection=EntirePage
+Formatting=None
+PreFormattedTextToColumns=True
+ConsecutiveDelimitersAsOne=True
+SingleBlockTextImport=False
+DisableDateRecognition=False
+DisableRedirections=False
